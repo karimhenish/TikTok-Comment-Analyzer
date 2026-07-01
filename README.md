@@ -61,9 +61,9 @@ The application also generates:
 
 - Python
 - Pandas
-- Selenium / Playwright *(حسب اللي استخدمته)*
+- Selenium / Playwright 
 - OpenPyXL
-- NLTK / TextBlob / Transformers *(حسب اللي استخدمته)*
+- NLTK / TextBlob / Transformers 
 - WordCloud
 - Matplotlib
 
